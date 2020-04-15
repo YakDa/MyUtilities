@@ -18,6 +18,8 @@ import javax.swing.filechooser.FileSystemView;
  */
 public class InputDataGeneration implements  ActionListener{
 
+	String version = "v1.1";
+	
 	JTextField path = new JTextField("");
 	JTextField number = new JTextField("");
 	JTextField iccid = new JTextField("");
@@ -38,7 +40,7 @@ public class InputDataGeneration implements  ActionListener{
 		
 		frame.add(panel, BorderLayout.CENTER);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setTitle("InputDataGeneration");
+		frame.setTitle("InputDataGeneration " + version);
 		frame.setSize(550, 350);
 		frame.setResizable(false);
 		frame.setVisible(true);
@@ -151,7 +153,7 @@ public class InputDataGeneration implements  ActionListener{
 				}
 			}
 			
-			for(int i = Integer.parseInt(number.getText())-1; i > 0; --i) {
+			for(int i = Integer.parseInt(number.getText()); i > 0; --i) {
 				String strIccid = dataMap.get(iccidCol);
 				String strImsi = dataMap.get(imsiCol);
 				String strMsisdn = dataMap.get(msisdnCol);
