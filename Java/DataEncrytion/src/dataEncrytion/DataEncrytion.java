@@ -23,7 +23,7 @@ import java.io.FileWriter;
  */
 public class DataEncrytion implements ActionListener{
 
-	String version = "v1.0";
+	String version = "v1.1";
 	JTextField path = new JTextField();
 	JTextField field = new JTextField();
 	JTextField key = new JTextField();
@@ -38,7 +38,6 @@ public class DataEncrytion implements ActionListener{
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(500, 220);
 		frame.setResizable(false);
-		frame.setVisible(true);
 		
 		path.setColumns(20);
 		field.setColumns(20);
@@ -75,6 +74,9 @@ public class DataEncrytion implements ActionListener{
 		
 		c.gridx = 1;c.gridy = 3;
 		panel.add(encBtn, c);
+		
+		// set frame to be visible after all components
+		frame.setVisible(true);
 		
 	}
 	
