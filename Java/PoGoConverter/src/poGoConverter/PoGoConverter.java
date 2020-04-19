@@ -12,7 +12,7 @@ import java.util.*;
  */
 public class PoGoConverter {
 
-	static String version = "v1.0";
+	static String version = "v1.1";
 	/**
 	 * @param args
 	 */
@@ -33,8 +33,8 @@ public class PoGoConverter {
 			bw.newLine();
 			while((line = br.readLine()) != null) {
 				if(line.startsWith("#")) {
-					bw.write(line.substring(1,line.indexOf(" ")+1)+",");
-					bw.write(line.substring(line.indexOf(" "), line.lastIndexOf(" "))+",");
+					bw.write(line.substring(1,line.indexOf(" "))+",");
+					bw.write(line.substring(line.indexOf(" ")+1, line.lastIndexOf(" "))+",");
 				}
 				else if(Character.isDigit(line.charAt(0))) {
 					String[] powData = line.split(" ");
