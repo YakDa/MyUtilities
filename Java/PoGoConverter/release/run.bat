@@ -1,0 +1,1 @@
+java -jar PoGoConverter.jar ./PokemonGoStatic.txt

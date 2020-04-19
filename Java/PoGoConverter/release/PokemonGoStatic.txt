@@ -1,0 +1,2077 @@
+Pokemon Stats CP Rating
+#1 Bulbasaur 
+128 118 111
+HP Atk Def 1115 0 
+#2 Ivysaur 
+155 151 143
+HP Atk Def 1699 0 
+#3 Venusaur 
+190 198 189
+HP Atk Def 2720 4 
+#4 Charmander 
+118 116 93
+HP Atk Def 980 0 
+#5 Charmeleon 
+151 158 126
+HP Atk Def 1653 0 
+#6 Charizard 
+186 223 173
+HP Atk Def 2889 4 
+#7 Squirtle 
+127 94 121
+HP Atk Def 946 0 
+#8 Wartortle 
+153 126 155
+HP Atk Def 1488 0 
+#9 Blastoise 
+188 171 207
+HP Atk Def 2466 1 
+#10 Caterpie 
+128 55 55
+HP Atk Def 437 0 
+#11 Metapod 
+137 45 80
+HP Atk Def 450 0 
+#12 Butterfree 
+155 167 137
+HP Atk Def 1827 1 
+#13 Weedle 
+120 63 50
+HP Atk Def 456 0 
+#14 Kakuna 
+128 46 75
+HP Atk Def 432 0 
+#15 Beedrill 
+163 169 130
+HP Atk Def 1846 1 
+#16 Pidgey 
+120 85 73
+HP Atk Def 680 0 
+#17 Pidgeotto 
+160 117 105
+HP Atk Def 1194 0 
+#18 Pidgeot 
+195 166 154
+HP Atk Def 2129 1 
+#19 Rattata 
+102 103 70
+HP Atk Def 734 0 
+#19 Alolan Rattata 
+102 103 70
+HP Atk Def 734 - 
+#20 Raticate 
+146 161 139
+HP Atk Def 1730 0 
+#20 Alolan Raticate 
+181 135 154
+HP Atk Def 1705 1 
+#21 Spearow 
+120 112 60
+HP Atk Def 798 0 
+#22 Fearow 
+163 182 133
+HP Atk Def 1997 1 
+#23 Ekans 
+111 110 97
+HP Atk Def 927 0 
+#24 Arbok 
+155 167 153
+HP Atk Def 1921 1 
+#25 Pikachu 
+111 112 96
+HP Atk Def 938 0 
+#26 Alolan Raichu 
+155 201 154
+HP Atk Def 2286 2 
+#26 Raichu 
+155 193 151
+HP Atk Def 2182 2 
+#27 Sandshrew 
+137 126 120
+HP Atk Def 1261 0 
+#27 Alolan Sandshrew 
+137 125 129
+HP Atk Def 1293 0 
+#28 Sandslash 
+181 182 175
+HP Atk Def 2374 1 
+#28 Alolan Sandslash 
+181 177 195
+HP Atk Def 2432 2 
+#29 Nidoran♀ 
+146 86 89
+HP Atk Def 816 0 
+#30 Nidorina 
+172 117 120
+HP Atk Def 1309 0 
+#31 Nidoqueen 
+207 180 173
+HP Atk Def 2488 2 
+#32 Nidoran♂ 
+130 105 76
+HP Atk Def 860 0 
+#33 Nidorino 
+156 137 111
+HP Atk Def 1393 0 
+#34 Nidoking 
+191 204 156
+HP Atk Def 2567 1 
+#35 Clefairy 
+172 107 108
+HP Atk Def 1155 0 
+#36 Clefable 
+216 178 162
+HP Atk Def 2437 0 
+#37 Vulpix 
+116 96 109
+HP Atk Def 883 0 
+#37 Alolan Vulpix 
+116 96 109
+HP Atk Def 883 0 
+#38 Alolan Ninetales 
+177 170 193
+HP Atk Def 2309 2 
+#38 Ninetales 
+177 169 190
+HP Atk Def 2279 2 
+#39 Jigglypuff 
+251 80 41
+HP Atk Def 724 0 
+#40 Wigglytuff 
+295 156 90
+HP Atk Def 1926 1 
+#41 Zubat 
+120 83 73
+HP Atk Def 667 0 
+#42 Golbat 
+181 161 150
+HP Atk Def 1976 0 
+#43 Oddish 
+128 131 112
+HP Atk Def 1228 0 
+#44 Gloom 
+155 153 136
+HP Atk Def 1681 0 
+#45 Vileplume 
+181 202 167
+HP Atk Def 2559 2.5 
+#46 Paras 
+111 121 99
+HP Atk Def 1018 0 
+#47 Parasect 
+155 165 146
+HP Atk Def 1859 1 
+#48 Venonat 
+155 100 100
+HP Atk Def 1004 0 
+#49 Venomoth 
+172 179 143
+HP Atk Def 2082 1 
+#50 Diglett 
+67 109 78
+HP Atk Def 676 0 
+#50 Alolan Diglett 
+67 108 81
+HP Atk Def 681 0 
+#51 Alolan Dugtrio 
+111 201 142
+HP Atk Def 1897 1 
+#51 Dugtrio 
+111 167 136
+HP Atk Def 1567 0 
+#52 Alolan Meowth 
+120 99 78
+HP Atk Def 797 0 
+#52 Meowth 
+120 92 78
+HP Atk Def 748 0 
+#53 Alolan Persian 
+163 158 136
+HP Atk Def 1771 0 
+#53 Persian 
+163 150 136
+HP Atk Def 1689 0 
+#54 Psyduck 
+137 122 95
+HP Atk Def 1106 0 
+#55 Golduck 
+190 191 162
+HP Atk Def 2450 2 
+#56 Mankey 
+120 148 82
+HP Atk Def 1164 0 
+#57 Primeape 
+163 207 138
+HP Atk Def 2288 2 
+#58 Growlithe 
+146 136 93
+HP Atk Def 1243 0 
+#59 Arcanine 
+207 227 166
+HP Atk Def 3029 3 
+#60 Poliwag 
+120 101 82
+HP Atk Def 829 0 
+#61 Poliwhirl 
+163 130 123
+HP Atk Def 1419 0 
+#62 Poliwrath 
+207 182 184
+HP Atk Def 2586 3 
+#63 Abra 
+93 195 82
+HP Atk Def 1342 0 
+#64 Kadabra 
+120 232 117
+HP Atk Def 2059 0 
+#65 Alakazam 
+146 271 167
+HP Atk Def 3057 3.5 
+#66 Machop 
+172 137 82
+HP Atk Def 1278 0 
+#67 Machoke 
+190 177 125
+HP Atk Def 2031 0 
+#68 Machamp 
+207 234 159
+HP Atk Def 3056 4.5 
+#69 Bellsprout 
+137 139 61
+HP Atk Def 1033 0 
+#70 Weepinbell 
+163 172 92
+HP Atk Def 1611 0 
+#71 Victreebel 
+190 207 135
+HP Atk Def 2431 3 
+#72 Tentacool 
+120 97 149
+HP Atk Def 1040 0 
+#73 Tentacruel 
+190 166 209
+HP Atk Def 2422 2 
+#74 Geodude 
+120 132 132
+HP Atk Def 1293 0 
+#74 Alolan Geodude 
+120 132 132
+HP Atk Def 1293 0 
+#75 Graveler 
+146 164 164
+HP Atk Def 1897 0 
+#75 Alolan Graveler 
+146 164 164
+HP Atk Def 1897 - 
+#76 Golem 
+190 211 198
+HP Atk Def 2949 3.5 
+#76 Alolan Golem 
+190 211 198
+HP Atk Def 2949 3.5 
+#77 Ponyta 
+137 170 127
+HP Atk Def 1697 0 
+#78 Rapidash 
+163 207 162
+HP Atk Def 2461 2 
+#79 Slowpoke 
+207 109 98
+HP Atk Def 1226 0 
+#80 Slowbro 
+216 177 180
+HP Atk Def 2545 0 
+#81 Magnemite 
+93 165 121
+HP Atk Def 1362 0 
+#82 Magneton 
+137 223 169
+HP Atk Def 2485 2 
+#83 Farfetch'd 
+141 124 115
+HP Atk Def 1236 0 
+#84 Doduo 
+111 158 83
+HP Atk Def 1200 0 
+#85 Dodrio 
+155 218 140
+HP Atk Def 2362 1 
+#86 Seel 
+163 85 121
+HP Atk Def 971 0 
+#87 Dewgong 
+207 139 177
+HP Atk Def 1985 1 
+#88 Grimer 
+190 135 90
+HP Atk Def 1374 0 
+#88 Alolan Grimer 
+190 135 90
+HP Atk Def 1374 0 
+#89 Muk 
+233 190 172
+HP Atk Def 2757 2 
+#89 Alolan Muk 
+233 190 172
+HP Atk Def 2757 2.5 
+#90 Shellder 
+102 116 134
+HP Atk Def 1080 0 
+#91 Cloyster 
+137 186 256
+HP Atk Def 2547 2.5 
+#92 Gastly 
+102 186 67
+HP Atk Def 1229 0 
+#93 Haunter 
+128 223 107
+HP Atk Def 1963 2 
+#94 Gengar 
+155 261 149
+HP Atk Def 2878 4.5 
+#95 Onix 
+111 85 232
+HP Atk Def 1101 0 
+#96 Drowzee 
+155 89 136
+HP Atk Def 1040 0 
+#97 Hypno 
+198 144 193
+HP Atk Def 2090 1 
+#98 Krabby 
+102 181 124
+HP Atk Def 1561 0 
+#99 Kingler 
+146 240 181
+HP Atk Def 2829 4.5 
+#100 Voltorb 
+120 109 111
+HP Atk Def 1010 0 
+#101 Electrode 
+155 173 173
+HP Atk Def 2099 1 
+#102 Exeggcute 
+155 107 125
+HP Atk Def 1175 0 
+#103 Exeggutor 
+216 233 149
+HP Atk Def 3014 3 
+#103 Alolan Exeggutor 
+216 230 153
+HP Atk Def 3014 3 
+#104 Cubone 
+137 90 144
+HP Atk Def 1019 0 
+#105 Marowak 
+155 144 186
+HP Atk Def 1835 0 
+#105 Alolan Marowak 
+155 144 186
+HP Atk Def 1835 1.5 
+#106 Hitmonlee 
+137 224 181
+HP Atk Def 2576 1 
+#107 Hitmonchan 
+137 193 197
+HP Atk Def 2332 1 
+#108 Lickitung 
+207 108 137
+HP Atk Def 1411 0 
+#109 Koffing 
+120 119 141
+HP Atk Def 1214 0 
+#110 Weezing 
+163 174 197
+HP Atk Def 2293 1 
+#110 Galarian Weezing 
+163 174 197
+HP Atk Def 2293 1 
+#111 Rhyhorn 
+190 140 127
+HP Atk Def 1651 0 
+#112 Rhydon 
+233 222 171
+HP Atk Def 3179 3 
+#113 Chansey 
+487 60 128
+HP Atk Def 1255 0 
+#114 Tangela 
+163 183 169
+HP Atk Def 2238 2.5 
+#115 Kangaskhan 
+233 181 165
+HP Atk Def 2586 1 
+#116 Horsea 
+102 129 103
+HP Atk Def 1056 0 
+#117 Seadra 
+146 187 156
+HP Atk Def 2093 1 
+#118 Goldeen 
+128 123 110
+HP Atk Def 1152 0 
+#119 Seaking 
+190 175 147
+HP Atk Def 2162 1 
+#120 Staryu 
+102 137 112
+HP Atk Def 1157 0 
+#121 Starmie 
+155 210 184
+HP Atk Def 2584 2 
+#122 Mr. Mime 
+120 192 205
+HP Atk Def 2228 1 
+#123 Scyther 
+172 218 170
+HP Atk Def 2706 2.5 
+#124 Jynx 
+163 223 151
+HP Atk Def 2555 3.5 
+#125 Electabuzz 
+163 198 158
+HP Atk Def 2334 2 
+#126 Magmar 
+163 206 154
+HP Atk Def 2394 1 
+#127 Pinsir 
+163 238 182
+HP Atk Def 2959 3.5 
+#128 Tauros 
+181 198 183
+HP Atk Def 2620 1 
+#129 Magikarp 
+85 29 85
+HP Atk Def 274 0 
+#130 Gyarados 
+216 237 186
+HP Atk Def 3391 4 
+#131 Lapras 
+277 165 174
+HP Atk Def 2641 2.5 
+#132 Ditto 
+134 91 91
+HP Atk Def 832 0 
+#133 Eevee 
+146 104 114
+HP Atk Def 1071 0 
+#134 Vaporeon 
+277 205 161
+HP Atk Def 3114 3 
+#135 Jolteon 
+163 232 182
+HP Atk Def 2888 3.5 
+#136 Flareon 
+163 246 179
+HP Atk Def 3029 3 
+#137 Porygon 
+163 153 136
+HP Atk Def 1720 0 
+#138 Omanyte 
+111 155 153
+HP Atk Def 1544 0 
+#139 Omastar 
+172 207 201
+HP Atk Def 2786 2.5 
+#140 Kabuto 
+102 148 140
+HP Atk Def 1370 0 
+#141 Kabutops 
+155 220 186
+HP Atk Def 2713 2 
+#142 Aerodactyl 
+190 221 159
+HP Atk Def 2783 2 
+#143 Snorlax 
+330 190 169
+HP Atk Def 3225 2.5 
+#144 Articuno 
+207 192 236
+HP Atk Def 3051 2 
+#145 Zapdos 
+207 253 185
+HP Atk Def 3527 4 
+#146 Moltres 
+207 251 181
+HP Atk Def 3465 5 
+#147 Dratini 
+121 119 91
+HP Atk Def 1004 0 
+#148 Dragonair 
+156 163 135
+HP Atk Def 1780 0 
+#149 Dragonite 
+209 263 198
+HP Atk Def 3792 4.5 
+#150 Mewtwo 
+214 300 182
+HP Atk Def 4178 5 
+#150 Armored Mewtwo 
+214 182 278
+HP Atk Def 3187 1.5 
+#151 Mew 
+225 210 210
+HP Atk Def 3265 2.5 
+#152 Chikorita 
+128 92 122
+HP Atk Def 935 0 
+#153 Bayleef 
+155 122 155
+HP Atk Def 1454 0 
+#154 Meganium 
+190 168 202
+HP Atk Def 2410 2 
+#155 Cyndaquil 
+118 116 93
+HP Atk Def 980 0 
+#156 Quilava 
+151 158 126
+HP Atk Def 1653 0 
+#157 Typhlosion 
+186 223 173
+HP Atk Def 2889 2.5 
+#158 Totodile 
+137 117 109
+HP Atk Def 1131 0 
+#159 Croconaw 
+163 150 142
+HP Atk Def 1722 0 
+#160 Feraligatr 
+198 205 188
+HP Atk Def 2857 4 
+#161 Sentret 
+111 79 73
+HP Atk Def 618 0 
+#162 Furret 
+198 148 125
+HP Atk Def 1758 1 
+#163 Hoothoot 
+155 67 88
+HP Atk Def 677 0 
+#164 Noctowl 
+225 145 156
+HP Atk Def 2024 1 
+#165 Ledyba 
+120 72 118
+HP Atk Def 728 0 
+#166 Ledian 
+146 107 179
+HP Atk Def 1346 0 
+#167 Spinarak 
+120 105 73
+HP Atk Def 816 0 
+#168 Ariados 
+172 161 124
+HP Atk Def 1772 0 
+#169 Crobat 
+198 194 178
+HP Atk Def 2646 2 
+#170 Chinchou 
+181 106 97
+HP Atk Def 1119 0 
+#171 Lanturn 
+268 146 137
+HP Atk Def 2085 1 
+#172 Pichu 
+85 77 53
+HP Atk Def 473 0 
+#173 Cleffa 
+137 75 79
+HP Atk Def 671 0 
+#174 Igglybuff 
+207 69 32
+HP Atk Def 535 0 
+#175 Togepi 
+111 67 116
+HP Atk Def 657 0 
+#176 Togetic 
+146 139 181
+HP Atk Def 1708 0 
+#177 Natu 
+120 134 89
+HP Atk Def 1102 0 
+#178 Xatu 
+163 192 146
+HP Atk Def 2188 1 
+#179 Mareep 
+146 114 79
+HP Atk Def 991 0 
+#180 Flaaffy 
+172 145 109
+HP Atk Def 1521 0 
+#181 Ampharos 
+207 211 169
+HP Atk Def 2852 2 
+#182 Bellossom 
+181 169 186
+HP Atk Def 2281 1 
+#183 Marill 
+172 37 93
+HP Atk Def 461 0 
+#184 Azumarill 
+225 112 152
+HP Atk Def 1588 2 
+#185 Sudowoodo 
+172 167 176
+HP Atk Def 2148 2 
+#186 Politoed 
+207 174 179
+HP Atk Def 2449 2 
+#187 Hoppip 
+111 67 94
+HP Atk Def 600 0 
+#188 Skiploom 
+146 91 120
+HP Atk Def 976 0 
+#189 Jumpluff 
+181 118 183
+HP Atk Def 1636 0 
+#190 Aipom 
+146 136 112
+HP Atk Def 1348 0 
+#191 Sunkern 
+102 55 55
+HP Atk Def 395 0 
+#192 Sunflora 
+181 185 135
+HP Atk Def 2141 2 
+#193 Yanma 
+163 154 94
+HP Atk Def 1470 0 
+#194 Wooper 
+146 75 66
+HP Atk Def 641 0 
+#195 Quagsire 
+216 152 143
+HP Atk Def 1992 0 
+#196 Espeon 
+163 261 175
+HP Atk Def 3170 4 
+#197 Umbreon 
+216 126 240
+HP Atk Def 2137 1 
+#198 Murkrow 
+155 175 87
+HP Atk Def 1562 0 
+#199 Slowking 
+216 177 180
+HP Atk Def 2545 0 
+#200 Misdreavus 
+155 167 154
+HP Atk Def 1926 0 
+#201 Unown 
+134 136 91
+HP Atk Def 1185 0 
+#202 Wobbuffet 
+382 60 106
+HP Atk Def 1026 0 
+#203 Girafarig 
+172 182 133
+HP Atk Def 2046 1 
+#204 Pineco 
+137 108 122
+HP Atk Def 1108 0 
+#205 Forretress 
+181 161 205
+HP Atk Def 2282 1 
+#206 Dunsparce 
+225 131 128
+HP Atk Def 1689 0 
+#207 Gligar 
+163 143 184
+HP Atk Def 1857 0 
+#208 Steelix 
+181 148 272
+HP Atk Def 2414 0 
+#209 Snubbull 
+155 137 85
+HP Atk Def 1237 0 
+#210 Granbull 
+207 212 131
+HP Atk Def 2552 2 
+#211 Qwilfish 
+163 184 138
+HP Atk Def 2051 1 
+#212 Scizor 
+172 236 181
+HP Atk Def 3001 3.5 
+#213 Shuckle 
+85 17 396
+HP Atk Def 405 0 
+#214 Heracross 
+190 234 179
+HP Atk Def 3101 3.5 
+#215 Sneasel 
+146 189 146
+HP Atk Def 2051 1 
+#216 Teddiursa 
+155 142 93
+HP Atk Def 1328 0 
+#217 Ursaring 
+207 236 144
+HP Atk Def 2945 3 
+#218 Slugma 
+120 118 71
+HP Atk Def 895 0 
+#219 Magcargo 
+137 139 191
+HP Atk Def 1702 0 
+#220 Swinub 
+137 90 69
+HP Atk Def 741 0 
+#221 Piloswine 
+225 181 138
+HP Atk Def 2345 3 
+#222 Corsola 
+146 118 156
+HP Atk Def 1378 0 
+#223 Remoraid 
+111 127 69
+HP Atk Def 912 0 
+#224 Octillery 
+181 197 141
+HP Atk Def 2315 1 
+#225 Delibird 
+128 128 90
+HP Atk Def 1094 0 
+#226 Mantine 
+163 148 226
+HP Atk Def 2108 1 
+#227 Skarmory 
+163 148 226
+HP Atk Def 2108 1 
+#228 Houndour 
+128 152 83
+HP Atk Def 1234 0 
+#229 Houndoom 
+181 224 144
+HP Atk Def 2635 3.5 
+#230 Kingdra 
+181 194 194
+HP Atk Def 2641 2 
+#231 Phanpy 
+207 107 98
+HP Atk Def 1206 0 
+#232 Donphan 
+207 214 185
+HP Atk Def 3013 2.5 
+#233 Porygon2 
+198 198 180
+HP Atk Def 2711 2 
+#234 Stantler 
+177 192 131
+HP Atk Def 2164 1 
+#235 Smeargle 
+146 40 83
+HP Atk Def 431 0 
+#236 Tyrogue 
+111 64 64
+HP Atk Def 492 0 
+#237 Hitmontop 
+137 173 207
+HP Atk Def 2156 1 
+#238 Smoochum 
+128 153 91
+HP Atk Def 1291 0 
+#239 Elekid 
+128 135 101
+HP Atk Def 1206 0 
+#240 Magby 
+128 151 99
+HP Atk Def 1323 0 
+#241 Miltank 
+216 157 193
+HP Atk Def 2354 0 
+#242 Blissey 
+496 129 169
+HP Atk Def 2757 0 
+#243 Raikou 
+207 241 195
+HP Atk Def 3452 5 
+#244 Entei 
+251 235 171
+HP Atk Def 3473 4 
+#245 Suicune 
+225 180 235
+HP Atk Def 2983 1.5 
+#246 Larvitar 
+137 115 93
+HP Atk Def 1040 0 
+#247 Pupitar 
+172 155 133
+HP Atk Def 1766 0 
+#248 Tyranitar 
+225 251 207
+HP Atk Def 3834 5 
+#249 Lugia 
+235 193 310
+HP Atk Def 3703 4 
+#250 Ho-Oh 
+214 239 244
+HP Atk Def 3863 3 
+#251 Celebi 
+225 210 210
+HP Atk Def 3265 2 
+#252 Treecko 
+120 124 94
+HP Atk Def 1053 0 
+#253 Grovyle 
+137 172 120
+HP Atk Def 1673 0 
+#254 Sceptile 
+172 223 169
+HP Atk Def 2757 3.5 
+#255 Torchic 
+128 130 87
+HP Atk Def 1093 0 
+#256 Combusken 
+155 163 115
+HP Atk Def 1652 0 
+#257 Blaziken 
+190 240 141
+HP Atk Def 2848 4 
+#258 Mudkip 
+137 126 93
+HP Atk Def 1128 0 
+#259 Marshtomp 
+172 156 133
+HP Atk Def 1776 0 
+#260 Swampert 
+225 208 175
+HP Atk Def 2974 4.5 
+#261 Poochyena 
+111 96 61
+HP Atk Def 678 0 
+#262 Mightyena 
+172 171 132
+HP Atk Def 1926 0 
+#263 Zigzagoon 
+116 58 80
+HP Atk Def 508 0 
+#263 Galarian Zigzagoon 
+116 58 80
+HP Atk Def 508 0 
+#264 Linoone 
+186 142 128
+HP Atk Def 1662 0 
+#264 Galarian Linoone 
+186 142 128
+HP Atk Def 1662 0 
+#265 Wurmple 
+128 75 59
+HP Atk Def 578 0 
+#266 Silcoon 
+137 60 77
+HP Atk Def 553 0 
+#267 Beautifly 
+155 189 98
+HP Atk Def 1765 0 
+#268 Cascoon 
+137 60 77
+HP Atk Def 553 0 
+#269 Dustox 
+155 98 162
+HP Atk Def 1224 0 
+#270 Lotad 
+120 71 77
+HP Atk Def 598 0 
+#271 Lombre 
+155 112 119
+HP Atk Def 1197 0 
+#272 Ludicolo 
+190 173 176
+HP Atk Def 2323 2 
+#273 Seedot 
+120 71 77
+HP Atk Def 598 0 
+#274 Nuzleaf 
+172 134 78
+HP Atk Def 1227 0 
+#275 Shiftry 
+207 200 121
+HP Atk Def 2333 3 
+#276 Taillow 
+120 106 61
+HP Atk Def 765 0 
+#277 Swellow 
+155 185 124
+HP Atk Def 1920 1 
+#278 Wingull 
+120 106 61
+HP Atk Def 765 0 
+#279 Pelipper 
+155 175 174
+HP Atk Def 2127 1 
+#280 Ralts 
+99 79 59
+HP Atk Def 539 0 
+#281 Kirlia 
+116 117 90
+HP Atk Def 966 0 
+#282 Gardevoir 
+169 237 195
+HP Atk Def 3093 4 
+#283 Surskit 
+120 93 87
+HP Atk Def 791 0 
+#284 Masquerain 
+172 192 150
+HP Atk Def 2270 1 
+#285 Shroomish 
+155 74 110
+HP Atk Def 810 0 
+#286 Breloom 
+155 241 144
+HP Atk Def 2628 4.5 
+#287 Slakoth 
+155 104 92
+HP Atk Def 1002 0 
+#288 Vigoroth 
+190 159 145
+HP Atk Def 1968 0 
+#289 Slaking 
+284 290 166
+HP Atk Def 4431 1.5 
+#290 Nincada 
+104 80 126
+HP Atk Def 768 0 
+#291 Ninjask 
+156 199 112
+HP Atk Def 1969 0 
+#292 Shedinja 
+1 153 73
+HP Atk Def 393 0 
+#293 Whismur 
+162 92 42
+HP Atk Def 671 0 
+#294 Loudred 
+197 134 81
+HP Atk Def 1327 0 
+#295 Exploud 
+232 179 137
+HP Atk Def 2347 1 
+#296 Makuhita 
+176 99 54
+HP Atk Def 817 0 
+#297 Hariyama 
+302 209 114
+HP Atk Def 2829 4.5 
+#298 Azurill 
+137 36 71
+HP Atk Def 364 0 
+#299 Nosepass 
+102 82 215
+HP Atk Def 993 1 
+#300 Skitty 
+137 84 79
+HP Atk Def 739 0 
+#301 Delcatty 
+172 132 127
+HP Atk Def 1496 0 
+#302 Sableye 
+137 141 136
+HP Atk Def 1476 0 
+#303 Mawile 
+137 155 141
+HP Atk Def 1634 1.5 
+#304 Aron 
+137 121 141
+HP Atk Def 1307 0 
+#305 Lairon 
+155 158 198
+HP Atk Def 2056 0 
+#306 Aggron 
+172 198 257
+HP Atk Def 3000 1.5 
+#307 Meditite 
+102 78 107
+HP Atk Def 693 0 
+#308 Medicham 
+155 121 152
+HP Atk Def 1431 1 
+#309 Electrike 
+120 123 78
+HP Atk Def 965 0 
+#310 Manectric 
+172 215 127
+HP Atk Def 2340 2 
+#311 Plusle 
+155 167 129
+HP Atk Def 1778 1 
+#312 Minun 
+155 147 150
+HP Atk Def 1694 1 
+#313 Volbeat 
+163 143 166
+HP Atk Def 1771 0 
+#314 Illumise 
+163 143 166
+HP Atk Def 1771 0 
+#315 Roselia 
+137 186 131
+HP Atk Def 1870 1 
+#316 Gulpin 
+172 80 99
+HP Atk Def 866 0 
+#317 Swalot 
+225 140 159
+HP Atk Def 1978 1 
+#318 Carvanha 
+128 171 39
+HP Atk Def 1020 0 
+#319 Sharpedo 
+172 243 83
+HP Atk Def 2181 2.5 
+#320 Wailmer 
+277 136 68
+HP Atk Def 1468 0 
+#321 Wailord 
+347 175 87
+HP Atk Def 2280 1.5 
+#322 Numel 
+155 119 79
+HP Atk Def 1057 0 
+#323 Camerupt 
+172 194 136
+HP Atk Def 2193 1 
+#324 Torkoal 
+172 151 203
+HP Atk Def 2093 1 
+#325 Spoink 
+155 125 122
+HP Atk Def 1334 0 
+#326 Grumpig 
+190 171 188
+HP Atk Def 2369 2 
+#327 Spinda 
+155 116 116
+HP Atk Def 1220 0 
+#328 Trapinch 
+128 162 78
+HP Atk Def 1274 0 
+#329 Vibrava 
+137 134 99
+HP Atk Def 1225 0 
+#330 Flygon 
+190 205 168
+HP Atk Def 2661 2 
+#331 Cacnea 
+137 156 74
+HP Atk Def 1242 0 
+#332 Cacturne 
+172 221 115
+HP Atk Def 2298 2.5 
+#333 Swablu 
+128 76 132
+HP Atk Def 824 0 
+#334 Altaria 
+181 141 201
+HP Atk Def 2004 1 
+#335 Zangoose 
+177 222 124
+HP Atk Def 2418 1 
+#336 Seviper 
+177 196 118
+HP Atk Def 2105 1 
+#337 Lunatone 
+207 178 153
+HP Atk Def 2327 2.5 
+#338 Solrock 
+207 178 153
+HP Atk Def 2327 2.5 
+#339 Barboach 
+137 93 82
+HP Atk Def 819 0 
+#340 Whiscash 
+242 151 141
+HP Atk Def 2075 1 
+#341 Corphish 
+125 141 99
+HP Atk Def 1230 0 
+#342 Crawdaunt 
+160 224 142
+HP Atk Def 2474 3 
+#343 Baltoy 
+120 77 124
+HP Atk Def 787 0 
+#344 Claydol 
+155 140 229
+HP Atk Def 1971 1 
+#345 Lileep 
+165 105 150
+HP Atk Def 1291 0 
+#346 Cradily 
+200 152 194
+HP Atk Def 2211 1 
+#347 Anorith 
+128 176 100
+HP Atk Def 1529 0 
+#348 Armaldo 
+181 222 174
+HP Atk Def 2848 2 
+#349 Feebas 
+85 29 85
+HP Atk Def 274 0 
+#350 Milotic 
+216 192 219
+HP Atk Def 3005 3 
+#351 Castform (Sunny) 
+172 139 139
+HP Atk Def 1632 0 
+#351 Castform (Snowy) 
+172 139 139
+HP Atk Def 1632 0 
+#351 Castform (Rainy) 
+172 139 139
+HP Atk Def 1632 0 
+#351 Castform 
+172 139 139
+HP Atk Def 1632 0 
+#352 Kecleon 
+155 161 189
+HP Atk Def 2047 0 
+#353 Shuppet 
+127 138 65
+HP Atk Def 1018 0 
+#354 Banette 
+162 218 126
+HP Atk Def 2298 3 
+#355 Duskull 
+85 70 162
+HP Atk Def 706 0 
+#356 Dusclops 
+120 124 234
+HP Atk Def 1591 1 
+#357 Tropius 
+223 136 163
+HP Atk Def 1941 1 
+#358 Chimecho 
+181 175 170
+HP Atk Def 2259 1 
+#359 Absol 
+163 246 120
+HP Atk Def 2526 3 
+#360 Wynaut 
+216 41 86
+HP Atk Def 534 0 
+#361 Snorunt 
+137 95 95
+HP Atk Def 888 0 
+#362 Glalie 
+190 162 162
+HP Atk Def 2105 1 
+#363 Spheal 
+172 95 90
+HP Atk Def 962 0 
+#364 Sealeo 
+207 137 132
+HP Atk Def 1714 1 
+#365 Walrein 
+242 182 176
+HP Atk Def 2726 2.5 
+#366 Clamperl 
+111 133 135
+HP Atk Def 1270 0 
+#367 Huntail 
+146 197 179
+HP Atk Def 2340 1 
+#368 Gorebyss 
+146 211 179
+HP Atk Def 2494 1 
+#369 Relicanth 
+225 162 203
+HP Atk Def 2528 2 
+#370 Luvdisc 
+125 81 128
+HP Atk Def 848 0 
+#371 Bagon 
+128 134 93
+HP Atk Def 1156 0 
+#372 Shelgon 
+163 172 155
+HP Atk Def 2031 0 
+#373 Salamence 
+216 277 168
+HP Atk Def 3749 4 
+#374 Beldum 
+120 96 132
+HP Atk Def 976 0 
+#375 Metang 
+155 138 176
+HP Atk Def 1721 0 
+#376 Metagross 
+190 257 228
+HP Atk Def 3791 5 
+#377 Regirock 
+190 179 309
+HP Atk Def 3122 2 
+#378 Regice 
+190 179 309
+HP Atk Def 3122 2 
+#379 Registeel 
+190 143 285
+HP Atk Def 2447 1 
+#380 Latias 
+190 228 246
+HP Atk Def 3510 3.5 
+#381 Latios 
+190 268 212
+HP Atk Def 3812 4 
+#382 Kyogre 
+205 270 228
+HP Atk Def 4115 5 
+#383 Groudon 
+205 270 228
+HP Atk Def 4115 4 
+#384 Rayquaza 
+213 284 170
+HP Atk Def 3835 5 
+#385 Jirachi 
+225 210 210
+HP Atk Def 3265 - 
+#386 Deoxys (Attack Forme) 
+137 414 46
+HP Atk Def 2580 - 
+#386 Deoxys (Normal Forme) 
+137 345 115
+HP Atk Def 3160 2.5 
+#386 Deoxys (Speed Forme) 
+137 230 218
+HP Atk Def 2879 - 
+#386 Deoxys (Defense Forme) 
+137 144 330
+HP Atk Def 2274 - 
+#387 Turtwig 
+146 119 110
+HP Atk Def 1187 0 
+#388 Grotle 
+181 157 143
+HP Atk Def 1890 0 
+#389 Torterra 
+216 202 188
+HP Atk Def 2934 3.5 
+#390 Chimchar 
+127 113 86
+HP Atk Def 957 0 
+#391 Monferno 
+162 158 105
+HP Atk Def 1574 0 
+#392 Infernape 
+183 222 151
+HP Atk Def 2683 2.5 
+#393 Piplup 
+142 112 102
+HP Atk Def 1075 0 
+#394 Prinplup 
+162 150 139
+HP Atk Def 1701 0 
+#395 Empoleon 
+197 210 186
+HP Atk Def 2900 4 
+#396 Starly 
+120 101 58
+HP Atk Def 719 0 
+#397 Staravia 
+146 142 94
+HP Atk Def 1299 0 
+#398 Staraptor 
+198 234 140
+HP Atk Def 2825 3 
+#399 Bidoof 
+153 80 73
+HP Atk Def 721 0 
+#400 Bibarel 
+188 162 119
+HP Atk Def 1823 1 
+#401 Kricketot 
+114 45 74
+HP Atk Def 401 0 
+#402 Kricketune 
+184 160 100
+HP Atk Def 1653 0 
+#403 Shinx 
+128 117 64
+HP Atk Def 876 0 
+#404 Luxio 
+155 159 95
+HP Atk Def 1486 0 
+#405 Luxray 
+190 232 156
+HP Atk Def 2888 3 
+#406 Budew 
+120 91 109
+HP Atk Def 856 - 
+#407 Roserade 
+155 243 185
+HP Atk Def 2971 4.5 
+#408 Cranidos 
+167 218 71
+HP Atk Def 1820 - 
+#409 Rampardos 
+219 295 109
+HP Atk Def 3298 5 
+#410 Shieldon 
+102 76 195
+HP Atk Def 890 - 
+#411 Bastiodon 
+155 94 286
+HP Atk Def 1539 1 
+#412 Burmy 
+120 53 83
+HP Atk Def 488 - 
+#413 Wormadam (Sandy Cloak) 
+155 141 180
+HP Atk Def 1773 - 
+#413 Wormadam (Plant Cloak) 
+155 141 180
+HP Atk Def 1773 - 
+#413 Wormadam (Trash Cloak) 
+155 127 175
+HP Atk Def 1593 - 
+#414 Mothim 
+172 185 98
+HP Atk Def 1815 - 
+#415 Combee 
+102 59 83
+HP Atk Def 494 - 
+#416 Vespiquen 
+172 149 190
+HP Atk Def 2005 - 
+#417 Pachirisu 
+155 94 172
+HP Atk Def 1213 - 
+#418 Buizel 
+146 132 67
+HP Atk Def 1054 - 
+#419 Floatzel 
+198 221 114
+HP Atk Def 2443 3 
+#420 Cherubi 
+128 108 92
+HP Atk Def 950 - 
+#421 Cherrim (Sunshine Form) 
+172 170 153
+HP Atk Def 2048 - 
+#421 Cherrim (Overcast Form) 
+172 170 153
+HP Atk Def 2048 - 
+#422 Shellos 
+183 103 105
+HP Atk Def 1136 - 
+#423 Gastrodon 
+244 169 143
+HP Atk Def 2324 - 
+#424 Ambipom 
+181 205 143
+HP Atk Def 2418 - 
+#425 Drifloon 
+207 117 80
+HP Atk Def 1197 0 
+#426 Drifblim 
+312 180 102
+HP Atk Def 2382 3 
+#427 Buneary 
+146 130 105
+HP Atk Def 1258 0 
+#428 Lopunny 
+163 156 194
+HP Atk Def 2059 1 
+#429 Mismagius 
+155 211 187
+HP Atk Def 2615 2.5 
+#430 Honchkrow 
+225 243 103
+HP Atk Def 2711 4 
+#431 Glameow 
+135 109 82
+HP Atk Def 934 - 
+#432 Purugly 
+174 172 133
+HP Atk Def 1953 - 
+#433 Chingling 
+128 114 94
+HP Atk Def 1005 0 
+#434 Stunky 
+160 121 90
+HP Atk Def 1151 0 
+#435 Skuntank 
+230 184 132
+HP Atk Def 2358 - 
+#436 Bronzor 
+149 43 154
+HP Atk Def 603 - 
+#437 Bronzong 
+167 161 213
+HP Atk Def 2239 1 
+#438 Bonsly 
+137 124 133
+HP Atk Def 1302 - 
+#439 Mime Jr. 
+85 125 142
+HP Atk Def 1095 - 
+#440 Happiny 
+225 25 77
+HP Atk Def 371 - 
+#441 Chatot 
+183 183 91
+HP Atk Def 1791 - 
+#442 Spiritomb 
+137 169 199
+HP Atk Def 2072 1 
+#443 Gible 
+151 124 84
+HP Atk Def 1112 - 
+#444 Gabite 
+169 172 125
+HP Atk Def 1874 - 
+#445 Garchomp 
+239 261 193
+HP Atk Def 3962 4.5 
+#446 Munchlax 
+286 137 117
+HP Atk Def 1892 - 
+#447 Riolu 
+120 127 78
+HP Atk Def 993 0 
+#448 Lucario 
+172 236 144
+HP Atk Def 2703 5 
+#449 Hippopotas 
+169 124 118
+HP Atk Def 1358 - 
+#450 Hippowdon 
+239 201 191
+HP Atk Def 3085 - 
+#451 Skorupi 
+120 93 151
+HP Atk Def 1009 - 
+#452 Drapion 
+172 180 202
+HP Atk Def 2453 2 
+#453 Croagunk 
+134 116 76
+HP Atk Def 952 - 
+#454 Toxicroak 
+195 211 133
+HP Atk Def 2488 3 
+#455 Carnivine 
+179 187 136
+HP Atk Def 2159 2.5 
+#456 Finneon 
+135 96 116
+HP Atk Def 971 - 
+#457 Lumineon 
+170 142 170
+HP Atk Def 1814 1 
+#458 Mantyke 
+128 105 179
+HP Atk Def 1248 - 
+#459 Snover 
+155 115 105
+HP Atk Def 1159 - 
+#460 Abomasnow 
+207 178 158
+HP Atk Def 2362 2 
+#461 Weavile 
+172 243 171
+HP Atk Def 3005 4.5 
+#462 Magnezone 
+172 238 205
+HP Atk Def 3205 4 
+#463 Lickilicky 
+242 161 181
+HP Atk Def 2467 1 
+#464 Rhyperior 
+251 241 190
+HP Atk Def 3733 4.5 
+#465 Tangrowth 
+225 207 184
+HP Atk Def 3030 3 
+#466 Electivire 
+181 249 163
+HP Atk Def 3079 4.5 
+#467 Magmortar 
+181 247 172
+HP Atk Def 3132 3 
+#468 Togekiss 
+198 225 217
+HP Atk Def 3332 3 
+#469 Yanmega 
+200 231 156
+HP Atk Def 2946 - 
+#470 Leafeon 
+163 216 219
+HP Atk Def 2944 3 
+#471 Glaceon 
+163 238 205
+HP Atk Def 3126 - 
+#472 Gliscor 
+181 185 222
+HP Atk Def 2692 - 
+#473 Mamoswine 
+242 247 146
+HP Atk Def 3328 5 
+#474 Porygon-Z 
+198 264 150
+HP Atk Def 3266 3 
+#475 Gallade 
+169 237 195
+HP Atk Def 3093 - 
+#476 Probopass 
+155 135 275
+HP Atk Def 2080 - 
+#477 Dusknoir 
+128 180 254
+HP Atk Def 2388 2 
+#478 Froslass 
+172 171 150
+HP Atk Def 2040 2 
+#479 Rotom 
+137 185 159
+HP Atk Def 2031 - 
+#480 Uxie 
+181 156 270
+HP Atk Def 2524 - 
+#481 Mesprit 
+190 212 212
+HP Atk Def 3058 - 
+#482 Azelf 
+181 270 151
+HP Atk Def 3210 3 
+#483 Dialga 
+205 275 211
+HP Atk Def 4038 4.5 
+#484 Palkia 
+189 280 215
+HP Atk Def 3991 4.5 
+#485 Heatran 
+209 251 213
+HP Atk Def 3754 3.5 
+#486 Regigigas 
+220 287 210
+HP Atk Def 4337 - 
+#487 Giratina (Origin Forme) 
+284 225 187
+HP Atk Def 3683 5 
+#487 Giratina (Altered Forme) 
+284 187 225
+HP Atk Def 3379 2 
+#488 Cresselia 
+260 152 258
+HP Atk Def 2857 2 
+#489 Phione 
+190 162 162
+HP Atk Def 2105 - 
+#490 Manaphy 
+225 210 210
+HP Atk Def 3265 - 
+#491 Darkrai 
+172 285 198
+HP Atk Def 3739 5 
+#492 Shaymin (Sky Forme) 
+225 261 166
+HP Atk Def 3592 - 
+#492 Shaymin (Land Forme) 
+225 210 210
+HP Atk Def 3265 - 
+#493 Arceus 
+236 238 238
+HP Atk Def 3982 - 
+#494 Victini 
+225 210 210
+HP Atk Def 3265 - 
+#495 Snivy 
+128 88 107
+HP Atk Def 849 - 
+#496 Servine 
+155 122 152
+HP Atk Def 1441 - 
+#497 Serperior 
+181 161 204
+HP Atk Def 2277 1.5 
+#498 Tepig 
+163 115 85
+HP Atk Def 1083 - 
+#499 Pignite 
+207 173 106
+HP Atk Def 1924 - 
+#500 Emboar 
+242 235 127
+HP Atk Def 2982 2 
+#501 Oshawott 
+146 117 85
+HP Atk Def 1046 - 
+#502 Dewott 
+181 159 116
+HP Atk Def 1741 - 
+#503 Samurott 
+216 212 157
+HP Atk Def 2826 2 
+#504 Patrat 
+128 98 73
+HP Atk Def 791 - 
+#505 Watchog 
+155 165 139
+HP Atk Def 1819 - 
+#506 Lillipup 
+128 107 86
+HP Atk Def 915 - 
+#507 Herdier 
+163 145 126
+HP Atk Def 1583 - 
+#508 Stoutland 
+198 206 182
+HP Atk Def 2827 - 
+#509 Purrloin 
+121 98 73
+HP Atk Def 772 - 
+#510 Liepard 
+162 187 106
+HP Atk Def 1846 - 
+#511 Pansage 
+137 104 94
+HP Atk Def 956 - 
+#512 Simisage 
+181 206 133
+HP Atk Def 2350 1 
+#513 Pansear 
+137 104 94
+HP Atk Def 956 - 
+#514 Simisear 
+181 206 133
+HP Atk Def 2350 1 
+#515 Panpour 
+137 104 94
+HP Atk Def 956 - 
+#516 Simipour 
+181 206 133
+HP Atk Def 2350 1 
+#517 Munna 
+183 111 92
+HP Atk Def 1145 - 
+#518 Musharna 
+253 183 166
+HP Atk Def 2723 - 
+#519 Pidove 
+137 98 80
+HP Atk Def 848 - 
+#520 Tranquill 
+158 144 107
+HP Atk Def 1442 - 
+#521 Unfezant 
+190 226 146
+HP Atk Def 2734 3.5 
+#522 Blitzle 
+128 118 64
+HP Atk Def 882 - 
+#523 Zebstrika 
+181 211 136
+HP Atk Def 2428 - 
+#524 Roggenrola 
+146 121 110
+HP Atk Def 1205 - 
+#525 Boldore 
+172 174 143
+HP Atk Def 2029 - 
+#526 Gigalith 
+198 226 201
+HP Atk Def 3228 - 
+#527 Woobat 
+163 107 85
+HP Atk Def 1016 - 
+#528 Swoobat 
+167 161 119
+HP Atk Def 1716 - 
+#529 Drilbur 
+155 154 85
+HP Atk Def 1376 - 
+#530 Excadrill 
+242 255 129
+HP Atk Def 3244 4 
+#531 Audino 
+230 114 163
+HP Atk Def 1682 - 
+#532 Timburr 
+181 134 87
+HP Atk Def 1315 - 
+#533 Gurdurr 
+198 180 134
+HP Atk Def 2169 - 
+#534 Conkeldurr 
+233 243 158
+HP Atk Def 3337 5 
+#535 Tympole 
+137 98 78
+HP Atk Def 839 - 
+#536 Palpitoad 
+181 128 109
+HP Atk Def 1392 - 
+#537 Seismitoad 
+233 188 150
+HP Atk Def 2564 - 
+#538 Throh 
+260 172 160
+HP Atk Def 2562 - 
+#539 Sawk 
+181 231 153
+HP Atk Def 2788 - 
+#540 Sewaddle 
+128 96 124
+HP Atk Def 977 - 
+#541 Swadloon 
+146 115 162
+HP Atk Def 1370 - 
+#542 Leavanny 
+181 205 165
+HP Atk Def 2580 - 
+#543 Venipede 
+102 83 99
+HP Atk Def 706 - 
+#544 Whirlipede 
+120 100 173
+HP Atk Def 1144 - 
+#545 Scolipede 
+155 203 175
+HP Atk Def 2447 - 
+#546 Cottonee 
+120 71 111
+HP Atk Def 700 - 
+#547 Whimsicott 
+155 164 176
+HP Atk Def 2014 - 
+#548 Petilil 
+128 119 91
+HP Atk Def 1030 - 
+#549 Lilligant 
+172 214 155
+HP Atk Def 2550 - 
+#550 Basculin 
+172 189 129
+HP Atk Def 2090 - 
+#551 Sandile 
+137 132 69
+HP Atk Def 1037 - 
+#552 Krokorok 
+155 155 90
+HP Atk Def 1418 - 
+#553 Krookodile 
+216 229 158
+HP Atk Def 3046 - 
+#554 Darumaka 
+172 153 86
+HP Atk Def 1442 - 
+#555 Darmanitan 
+233 263 114
+HP Atk Def 3105 - 
+#555 Darmanitan (Zen Mode) 
+233 243 202
+HP Atk Def 3738 - 
+#556 Maractus 
+181 201 130
+HP Atk Def 2274 - 
+#557 Dwebble 
+137 118 128
+HP Atk Def 1224 - 
+#558 Crustle 
+172 188 200
+HP Atk Def 2542 - 
+#559 Scraggy 
+137 132 132
+HP Atk Def 1372 - 
+#560 Scrafty 
+163 163 222
+HP Atk Def 2283 - 
+#561 Sigilyph 
+176 204 167
+HP Atk Def 2550 - 
+#562 Yamask 
+116 95 141
+HP Atk Def 982 - 
+#563 Cofagrigus 
+151 163 237
+HP Atk Def 2273 - 
+#564 Tirtouga 
+144 134 146
+HP Atk Def 1488 - 
+#565 Carracosta 
+179 192 197
+HP Atk Def 2621 - 
+#566 Archen 
+146 213 89
+HP Atk Def 1842 - 
+#567 Archeops 
+181 292 139
+HP Atk Def 3331 - 
+#568 Trubbish 
+137 96 122
+HP Atk Def 1000 - 
+#569 Garbodor 
+190 181 164
+HP Atk Def 2345 - 
+#570 Zorua 
+120 153 78
+HP Atk Def 1175 - 
+#571 Zoroark 
+155 250 127
+HP Atk Def 2571 - 
+#572 Minccino 
+146 98 80
+HP Atk Def 872 - 
+#573 Cinccino 
+181 198 130
+HP Atk Def 2242 - 
+#574 Gothita 
+128 98 112
+HP Atk Def 951 - 
+#575 Gothorita 
+155 137 153
+HP Atk Def 1604 - 
+#576 Gothitelle 
+172 176 205
+HP Atk Def 2419 - 
+#577 Solosis 
+128 170 83
+HP Atk Def 1367 - 
+#578 Duosion 
+163 208 103
+HP Atk Def 2018 - 
+#579 Reuniclus 
+242 214 148
+HP Atk Def 2927 - 
+#580 Ducklett 
+158 84 96
+HP Atk Def 856 - 
+#581 Swanna 
+181 182 132
+HP Atk Def 2088 - 
+#582 Vanillite 
+113 118 106
+HP Atk Def 1033 - 
+#583 Vanillish 
+139 151 138
+HP Atk Def 1591 - 
+#584 Vanilluxe 
+174 218 184
+HP Atk Def 2822 - 
+#585 Deerling 
+155 115 100
+HP Atk Def 1135 - 
+#586 Sawsbuck 
+190 198 146
+HP Atk Def 2416 - 
+#587 Emolga 
+146 158 127
+HP Atk Def 1633 - 
+#588 Karrablast 
+137 137 87
+HP Atk Def 1182 - 
+#589 Escavalier 
+172 223 187
+HP Atk Def 2889 - 
+#590 Foongus 
+170 97 91
+HP Atk Def 979 - 
+#591 Amoonguss 
+249 155 139
+HP Atk Def 2140 1 
+#592 Frillish 
+146 115 134
+HP Atk Def 1257 - 
+#593 Jellicent 
+225 159 178
+HP Atk Def 2338 - 
+#594 Alomomola 
+338 138 131
+HP Atk Def 2169 - 
+#595 Joltik 
+137 110 98
+HP Atk Def 1023 - 
+#596 Galvantula 
+172 201 128
+HP Atk Def 2206 - 
+#597 Ferroseed 
+127 82 155
+HP Atk Def 941 - 
+#598 Ferrothorn 
+179 158 223
+HP Atk Def 2321 2 
+#599 Klink 
+120 98 121
+HP Atk Def 956 - 
+#600 Klang 
+155 150 174
+HP Atk Def 1847 - 
+#601 Klinklang 
+155 199 214
+HP Atk Def 2637 - 
+#602 Tynamo 
+111 105 78
+HP Atk Def 811 - 
+#603 Eelektrik 
+163 156 130
+HP Atk Def 1715 - 
+#604 Eelektross 
+198 217 152
+HP Atk Def 2732 - 
+#605 Elgyem 
+146 148 100
+HP Atk Def 1385 - 
+#606 Beheeyem 
+181 221 163
+HP Atk Def 2753 - 
+#607 Litwick 
+137 108 98
+HP Atk Def 1006 - 
+#608 Lampent 
+155 169 115
+HP Atk Def 1708 - 
+#609 Chandelure 
+155 271 182
+HP Atk Def 3268 5 
+#610 Axew 
+130 154 101
+HP Atk Def 1368 - 
+#611 Fraxure 
+165 212 123
+HP Atk Def 2234 - 
+#612 Haxorus 
+183 284 172
+HP Atk Def 3593 4.5 
+#613 Cubchoo 
+146 128 74
+HP Atk Def 1069 - 
+#614 Beartic 
+216 233 152
+HP Atk Def 3042 - 
+#615 Cryogonal 
+190 190 218
+HP Atk Def 2798 - 
+#616 Shelmet 
+137 72 140
+HP Atk Def 834 - 
+#617 Accelgor 
+190 220 120
+HP Atk Def 2441 - 
+#618 Stunfisk 
+240 144 171
+HP Atk Def 2162 - 
+#619 Mienfoo 
+128 160 98
+HP Atk Def 1389 - 
+#620 Mienshao 
+163 258 127
+HP Atk Def 2710 - 
+#621 Druddigon 
+184 213 170
+HP Atk Def 2732 - 
+#622 Golett 
+153 127 92
+HP Atk Def 1189 - 
+#623 Golurk 
+205 222 154
+HP Atk Def 2854 - 
+#624 Pawniard 
+128 154 114
+HP Atk Def 1433 - 
+#625 Bisharp 
+163 232 176
+HP Atk Def 2844 - 
+#626 Bouffalant 
+216 195 182
+HP Atk Def 2797 - 
+#627 Rufflet 
+172 150 97
+HP Atk Def 1491 - 
+#628 Braviary 
+225 232 152
+HP Atk Def 3088 - 
+#629 Vullaby 
+172 105 139
+HP Atk Def 1271 - 
+#630 Mandibuzz 
+242 129 205
+HP Atk Def 2138 - 
+#631 Heatmor 
+198 204 129
+HP Atk Def 2395 - 
+#632 Durant 
+151 217 188
+HP Atk Def 2659 - 
+#633 Deino 
+141 116 93
+HP Atk Def 1062 - 
+#634 Zweilous 
+176 159 135
+HP Atk Def 1839 - 
+#635 Hydreigon 
+211 256 188
+HP Atk Def 3625 4 
+#636 Larvesta 
+146 156 107
+HP Atk Def 1496 - 
+#637 Volcarona 
+198 264 189
+HP Atk Def 3632 - 
+#638 Cobalion 
+209 192 229
+HP Atk Def 3022 - 
+#639 Terrakion 
+209 260 192
+HP Atk Def 3698 4.5 
+#640 Virizion 
+209 192 229
+HP Atk Def 3022 - 
+#641 Tornadus (Incarnate Forme) 
+188 266 164
+HP Atk Def 3345 - 
+#641 Tornadus (Therian Forme) 
+188 238 189
+HP Atk Def 3215 - 
+#642 Thundurus (Therian Forme) 
+188 295 161
+HP Atk Def 3659 - 
+#642 Thundurus (Incarnate Forme) 
+188 266 164
+HP Atk Def 3345 - 
+#643 Reshiram 
+205 275 211
+HP Atk Def 4038 - 
+#644 Zekrom 
+205 275 211
+HP Atk Def 4038 - 
+#645 Landorus (Therian Forme) 
+205 289 179
+HP Atk Def 3922 - 
+#645 Landorus (Incarnate Forme) 
+205 261 182
+HP Atk Def 3588 - 
+#646 White Kyurem 
+245 310 183
+HP Atk Def 4605 - 
+#646 Black Kyurem 
+245 310 183
+HP Atk Def 4605 - 
+#646 Kyurem 
+245 246 170
+HP Atk Def 3575 - 
+#647 Keldeo 
+209 260 192
+HP Atk Def 3698 - 
+#648 Meloetta (Pirouette Forme) 
+225 269 188
+HP Atk Def 3915 - 
+#648 Meloetta (Aria Forme) 
+225 250 225
+HP Atk Def 3972 - 
+#649 Genesect 
+174 252 199
+HP Atk Def 3353 - 
+#808 Meltan 
+130 118 99
+HP Atk Def 1068 0 
+#809 Melmetal 
+264 226 190
+HP Atk Def 3599 0 
+# Pikachu Libre 
+111 112 96
+HP Atk Def 938 - 
