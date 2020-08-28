@@ -23,12 +23,13 @@ import java.io.FileWriter;
  */
 public class DataEncrytion implements ActionListener{
 
-	String version = "v1.1";
+	String version = "v1.2";
 	JTextField path = new JTextField();
 	JTextField field = new JTextField();
 	JTextField key = new JTextField();
 	JButton openBtn = new JButton("Open");
 	JButton encBtn = new JButton("Encrypt");
+	JButton decBtn = new JButton("Decrypt");
 	
 	public DataEncrytion() {
 		JFrame frame = new JFrame("DataEncryption_" + version);
@@ -36,7 +37,7 @@ public class DataEncrytion implements ActionListener{
 		
 		frame.add(panel, BorderLayout.CENTER);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setSize(500, 220);
+		frame.setSize(550, 240);
 		frame.setResizable(false);
 		
 		path.setColumns(20);
@@ -45,6 +46,7 @@ public class DataEncrytion implements ActionListener{
 		
 		openBtn.addActionListener(this);
 		encBtn.addActionListener(this);
+		decBtn.addActionListener(this);
 		
 		panel.setBorder(BorderFactory.createEmptyBorder(30, 30, 10, 30));
 		panel.setLayout(new GridBagLayout());
@@ -72,8 +74,10 @@ public class DataEncrytion implements ActionListener{
 		c.gridx = 1;c.gridy = 2;
 		panel.add(key, c);
 		
-		c.gridx = 1;c.gridy = 3;
+		c.gridx = 2;c.gridy = 3;
 		panel.add(encBtn, c);
+		c.gridx = 3;c.gridy = 3;
+		panel.add(decBtn, c);
 		
 		// set frame to be visible after all components
 		frame.setVisible(true);
@@ -90,18 +94,28 @@ public class DataEncrytion implements ActionListener{
 			}
 		}
 		else if(e.getSource() == encBtn) {
-			encryptFields(field.getText());
+			cryptoDesFields(field.getText(), true);
+		}
+		else if(e.getSource() == decBtn) {
+			cryptoDesFields(field.getText(), false);
 		}
 		
 	}
 	
 	HashMap<String, Integer> fieldMap = new HashMap<>();
 	
-	private void encryptFields(String text) {
+	private void cryptoDesFields(String text, boolean toEncrypt) {
 		
 		String[] fieldToEncrypt = text.split("/");
 		File fin = new File(path.getText());
-		File fout = new File(path.getText()+"_Encrypted");
+		String outputFile = path.getText();
+		if(toEncrypt == true) {
+			outputFile += "_Encrypted";
+		}
+		else {
+			outputFile += "_Decrypted";
+		}
+		File fout = new File(outputFile);
 		
 		FileReader fr;
 		try {
@@ -124,7 +138,7 @@ public class DataEncrytion implements ActionListener{
 					
 					for(String s: fieldToEncrypt) {
 						Integer idx = fieldMap.get(s);
-						data[idx] = CryptoDes.desEncryption(data[idx], key.getText());
+						data[idx] = CryptoDes.desEncryption(data[idx], key.getText(), toEncrypt);
 					}
 					
 					line = String.join(" ", data);
@@ -137,8 +151,12 @@ public class DataEncrytion implements ActionListener{
 					bw.newLine();
 				}
 			}
+			String message = "Encryption is done!";
+			if(toEncrypt == false) {
+				message = "Decryption is done!";
+			}
 			
-			JOptionPane.showMessageDialog(null, "Encryption is done!", "DataEncryption", JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(null, message, "DataEncryption", JOptionPane.INFORMATION_MESSAGE);
 			fr.close();
 			bw.close();
 		} catch (Exception e) {
